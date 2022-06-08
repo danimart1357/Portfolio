@@ -47,9 +47,76 @@ li{
     display: inline;
     height: 80px;
     width: auto; 
+    margin-bottom: 20px;
 }
 #skills{
     color: #495057;
     font-family: 'Source Code Pro', monospace;
     text-align: center;
 }
+.express{
+    display: inline;
+    height: 80px;
+    width: auto; 
+    padding: 5px;
+}
+.node{
+    display: inline;
+    height: 80px;
+    width: auto;
+    padding: 5px;
+}
+.vue{
+    display: inline;
+    height: 80px;
+    width: auto;
+    padding: 5px;
+}
+.jquery{
+    display: inline;
+    height: 120px;
+    width: auto;
+    padding: 5px;
+}
+
+.ruby{
+    display: inline;
+    height: 80px;
+    width: auto;
+    padding: 5px;
+}
+
+.rails{
+    display: inline;
+    height: 100px;
+    width: auto;
+    padding: 5px;
+}
+.sinatra{
+    display: inline;
+    height: 80px;
+    width: auto;
+    padding: 5px;
+}
+.databases{
+    display: inline;
+    height: 80px;
+    width: auto;
+    padding: 5px;
+}
+.postgres{
+    display: inline;
+    height: 80px;
+    width: auto;
+    padding: 5px;
+}
+.mongodb{
+    display: inline;
+    height: 80px;
+    width: auto;
+    padding: 5px;
+}
+
+/*--------------- Skills -------------------*/
+
+
