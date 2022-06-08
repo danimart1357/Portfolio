@@ -1,47 +1,55 @@
 
 header{
-    font-family: 'Open Sans', sans-serif;
-    color: #343A40;
+    font-family: 'Source Code Pro', monospace;
+    color: black;
     text-align: center;
+    padding: 0%;
+    margin: 0;
 }
 body{
     background-color: #ADB5BD;
 }
-ul{
-    font-family: 'Open Sans', sans-serif;
-    text-align: center;
-    list-style-type: none;
-}
 a{
-    display: inline;
-    color: #343A40;
+    color: whitesmoke;
+    padding: 0;
+    margin: 0 auto;
 }
+/*----------- Header ------------------ */
 
 #about{
-    text-align: center;
+    color: #495057;
     font-family: 'Source Code Pro', monospace;
-}
-img{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    padding: 0;
-}
-#skills{
     text-align: center;
-    font-family: 'Source Code Pro', monospace;
+}
+
+/* ------------- About Me section -----------*/
+
+
+#skills-icon{
+    display: inline;
+}
+li{
+    display: inline;
 }
 .html{
-    display: inline-block;
+    display: inline;
     height: 100px;
     width: auto;  
     padding: 0%;
 }
-
 .css{
-    display: inline-block;
-    height: 80px;
+    display: inline;
+    height: 100px;
     width: auto;  
 
+} 
+.js{
+    display: inline;
+    height: 80px;
+    width: auto; 
+}
+#skills{
+    color: #495057;
+    font-family: 'Source Code Pro', monospace;
+    text-align: center;
 }
