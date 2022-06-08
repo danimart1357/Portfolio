@@ -1,20 +1,47 @@
-*{
-    color: whitesmoke;
-}
+
 header{
     font-family: 'Open Sans', sans-serif;
-    color: whitesmoke;
+    color: #343A40;
     text-align: center;
 }
 body{
-    background-color: black;
+    background-color: #ADB5BD;
 }
 ul{
     font-family: 'Open Sans', sans-serif;
-    color: whitesmoke;
     text-align: center;
     list-style-type: none;
 }
-li{
+a{
     display: inline;
+    color: #343A40;
+}
+
+#about{
+    text-align: center;
+    font-family: 'Source Code Pro', monospace;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 0;
+}
+#skills{
+    text-align: center;
+    font-family: 'Source Code Pro', monospace;
+}
+.html{
+    display: inline-block;
+    height: 100px;
+    width: auto;  
+    padding: 0%;
+}
+
+.css{
+    display: inline-block;
+    height: 80px;
+    width: auto;  
+
 }
