@@ -1,0 +1,20 @@
+*{
+    color: whitesmoke;
+}
+header{
+    font-family: 'Open Sans', sans-serif;
+    color: whitesmoke;
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+ul{
+    font-family: 'Open Sans', sans-serif;
+    color: whitesmoke;
+    text-align: center;
+    list-style-type: none;
+}
+li{
+    display: inline;
+}
