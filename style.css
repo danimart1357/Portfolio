@@ -161,3 +161,75 @@ li{
     padding: 5px;
 }
 /*--------------- TicTacToe -------------------*/
+
+.game-heading{
+    color: #495057;
+    font-family: 'Source Code Pro', monospace;
+    text-align: center;
+}
+.game-image{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.game-para{
+    color: #495057;
+    font-family: 'Source Code Pro', monospace;
+    text-align: center;
+}
+/*--------------- 2048 -------------------*/
+
+.football-heading{
+    color: #495057;
+    font-family: 'Source Code Pro', monospace;
+    text-align: center;
+}
+.football-image{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.football-para{
+    color: #495057;
+    font-family: 'Source Code Pro', monospace;
+    text-align: center;
+}
+
+/*--------------- Football -------------------*/
+.crashmob-heading{
+    color: #495057;
+    font-family: 'Source Code Pro', monospace;
+    text-align: center;
+}
+.crashmob-image{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.crashmob-para{
+    color: #495057;
+    font-family: 'Source Code Pro', monospace;
+    text-align: center;
+}
+
+/*--------------- Crash Mob -------------------*/
+
+.eventor-heading{
+    color: #495057;
+    font-family: 'Source Code Pro', monospace;
+    text-align: center;
+}
+.eventor-image{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.eventor-para{
+    color: #495057;
+    font-family: 'Source Code Pro', monospace;
+    text-align: center;
+}
